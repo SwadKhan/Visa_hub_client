@@ -1,0 +1,184 @@
+[
+    {
+      "Country_image": "https://i.ibb.co.com/D90vTfs/annie-spratt-WCgio-Ec-EVNc-unsplash.jpg",
+      "Country_name": "Spain",
+      "Visa_type": "Tourist Visa",
+      "Processing_time": "15 days",
+      "Required_documents": [
+        "Valid passport",
+        "Visa application form",
+        "Proof of travel insurance",
+        "Travel itinerary",
+        "Proof of accommodation",
+        "Bank statement"
+      ],
+      "Description": "Allows visitors to explore Spain and other Schengen countries.",
+      "Age_restriction": "None",
+      "Fee": "$80",
+      "Validity": "90 days",
+      "Application_method": "Embassy or consulate"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/b6pNH0y/daniel-burka-o-R9-Ziso-F-NE-unsplash.jpg",
+      "Country_name": "France",
+      "Visa_type": "Student Visa",
+      "Processing_time": "3-6 weeks",
+      "Required_documents": [
+        "Valid passport",
+        "Acceptance letter from French university",
+        "Proof of financial means",
+        "Proof of accommodation",
+        "Medical insurance"
+      ],
+      "Description": "For students pursuing education in France.",
+      "Age_restriction": "None",
+      "Fee": "$70",
+      "Validity": "Duration of study + 3 months",
+      "Application_method": "Campus France platform and embassy"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/py9Fj02/jonathan-korner-p-RU-Vn-BVJMQ-unsplash.jpg",
+      "Country_name": "Italy",
+      "Visa_type": "Work Visa",
+      "Processing_time": "2-3 months",
+      "Required_documents": [
+        "Valid passport",
+        "Work contract",
+        "Application form",
+        "Proof of accommodation",
+        "Police clearance certificate"
+      ],
+      "Description": "Allows professionals to work in Italy.",
+      "Age_restriction": "18+",
+      "Fee": "$120",
+      "Validity": "Up to 2 years",
+      "Application_method": "Embassy"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/YRGf0KB/karsten-wurth-u-Zt8w-D1rgeo-unsplash.jpg",
+      "Country_name": "Netherlands",
+      "Visa_type": "Startup Visa",
+      "Processing_time": "4-6 weeks",
+      "Required_documents": [
+        "Valid passport",
+        "Business plan",
+        "Proof of financial support",
+        "Health insurance",
+        "Proof of accommodation"
+      ],
+      "Description": "For entrepreneurs looking to start a business in the Netherlands.",
+      "Age_restriction": "18+",
+      "Fee": "$325",
+      "Validity": "1 year",
+      "Application_method": "Embassy or IND (Immigration and Naturalisation Service)"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/ZGDyC7F/igor-oliyarnik-Uu5a-XBI1o-Lk-unsplash.jpg",
+      "Country_name": "Brazil",
+      "Visa_type": "Tourist Visa",
+      "Processing_time": "10-15 days",
+      "Required_documents": [
+        "Valid passport",
+        "Visa application form",
+        "Recent photograph",
+        "Proof of travel",
+        "Proof of financial means"
+      ],
+      "Description": "For leisure travel to Brazil.",
+      "Age_restriction": "None",
+      "Fee": "$40",
+      "Validity": "90 days",
+      "Application_method": "Embassy or consulate"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/hXrSmxd/thibault-penin-zj-z-OAa-T8as-unsplash-1.jpg",
+      "Country_name": "Argentina",
+      "Visa_type": "Working Holiday Visa",
+      "Processing_time": "4-6 weeks",
+      "Required_documents": [
+        "Valid passport",
+        "Proof of financial means",
+        "Return ticket",
+        "Medical insurance",
+        "Proof of accommodation"
+      ],
+      "Description": "For young travelers who want to work while exploring Argentina.",
+      "Age_restriction": "18-30 years",
+      "Fee": "$100",
+      "Validity": "1 year",
+      "Application_method": "Embassy"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/hXrSmxd/thibault-penin-zj-z-OAa-T8as-unsplash-1.jpg",
+      "Country_name": "Peru",
+      "Visa_type": "Business Visa",
+      "Processing_time": "7-10 days",
+      "Required_documents": [
+        "Valid passport",
+        "Invitation letter from Peru",
+        "Proof of financial means",
+        "Recent photograph",
+        "Flight itinerary"
+      ],
+      "Description": "For attending business meetings or conferences in Peru.",
+      "Age_restriction": "None",
+      "Fee": "$30",
+      "Validity": "183 days",
+      "Application_method": "Embassy"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/wyXWmCg/giuseppe-mondi-d-TDLVl-VDic4-unsplash.jpg",
+      "Country_name": "Colombia",
+      "Visa_type": "Tourist Visa",
+      "Processing_time": "5-10 days",
+      "Required_documents": [
+        "Valid passport",
+        "Visa application form",
+        "Recent photograph",
+        "Proof of financial means",
+        "Travel itinerary"
+      ],
+      "Description": "Allows travel to Colombia for leisure and tourism.",
+      "Age_restriction": "None",
+      "Fee": "$50",
+      "Validity": "90 days",
+      "Application_method": "Online or embassy"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/Kzhx55x/fernanda-fierro-XV4-XUU7g-Wlk-unsplash.jpg",
+      "Country_name": "Venezuela",
+      "Visa_type": "Business Visa",
+      "Processing_time": "15-20 days",
+      "Required_documents": [
+        "Valid passport",
+        "Visa application form",
+        "Invitation letter",
+        "Recent photograph",
+        "Proof of financial means"
+      ],
+      "Description": "For conducting business activities in Venezuela.",
+      "Age_restriction": "None",
+      "Fee": "$60",
+      "Validity": "90 days",
+      "Application_method": "Embassy or consulate"
+    },
+    {
+      "Country_image": "https://i.ibb.co.com/4NSDspp/agustin-diaz-gargiulo-7-F65-HDP0-E0-unsplash.jpg",
+      "Country_name": "Chile",
+      "Visa_type": "Student Visa",
+      "Processing_time": "3-4 weeks",
+      "Required_documents": [
+        "Valid passport",
+        "Acceptance letter from Chilean university",
+        "Proof of financial means",
+        "Medical certificate",
+        "Police clearance certificate"
+      ],
+      "Description": "For students enrolling in educational institutions in Chile.",
+      "Age_restriction": "None",
+      "Fee": "$60",
+      "Validity": "Duration of study",
+      "Application_method": "Embassy"
+    }
+  ]
+  
